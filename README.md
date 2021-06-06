@@ -1,4 +1,4 @@
-# UX for a hacked life
+# hacked life
 
 - 👋 Hi, i'm valerievna matviyenko, vалерьевна, or @valereznya. i'm a computer hacker, female, and many other things.
 - 👀 I’m interested in learning and making use of cryptography / privilege escalation & bringing instruction set randomization to the masses.
